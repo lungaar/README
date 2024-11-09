@@ -1,4 +1,3 @@
-[![MasterHead](https://media.istockphoto.com/id/1470617656/vector/ai-artificial-intelligence-chipset-on-circuit-board-in-futuristic-concept-suitable-for.jpg?s=612x612&w=0&k=20&c=_wC-pphyNI2muaUHG4N9JuYXxJEMDuzx56Dvzr8ZDUk=)]
 <h1 align="center">Hi 👋, I'm Lunga</h1>
 <h3 align="center">Apiring full spec developer from Johannesburg South Africa</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbAvppV4ynGp8T2EPDRCIxDTONhv2OaBK-iA&s">
