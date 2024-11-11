@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **e-commerce website**
+-  I’m looking to collaborate on **e-commerce website**
 
 - 📫 How to reach me **lunganyembe07@gmail.com**
 
