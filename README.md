@@ -8,7 +8,7 @@
  
 - 📥 I’m looking to collaborate on **e-commerce website**
 
--  📧 How to reach me **lunganyembe07@gmail.com**
+-  📧 How to find me **lunganyembe07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
