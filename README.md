@@ -2,7 +2,7 @@
 <h3 align="center">Apiring full spec developer from Johannesburg South Africa</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbAvppV4ynGp8T2EPDRCIxDTONhv2OaBK-iA&s">
 
-- I'm currently working on **React**
+- I'm currently working on **Creating an AI chat bot**
 
 - 🌱 I’m currently learning **React**
  
